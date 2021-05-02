@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    color: blanchedalmond;
+    background-color: black;
+}
+body{
+    width: 1600px;
+}
